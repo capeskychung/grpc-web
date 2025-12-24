@@ -14,7 +14,7 @@ import (
 
 	"github.com/desertbit/timer"
 	"golang.org/x/net/http2"
-	"github.com/gorilla/websocket"
+	"github.com/coder/websocket"
 )
 
 type webSocketResponseWriter struct {
