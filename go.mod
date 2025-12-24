@@ -24,3 +24,5 @@ require (
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 	nhooyr.io/websocket v1.8.7
 )
+
+replace nhooyr.io/websocket v1.8.7 => github.com/gorilla/websocket v1.5.3
