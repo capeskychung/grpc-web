@@ -14,7 +14,7 @@ import (
 	"github.com/rs/cors"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/grpclog"
-	"nhooyr.io/websocket"
+	"github.com/gorilla/websocket"
 )
 
 var (
