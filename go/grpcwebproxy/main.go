@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"nhooyr.io/websocket"
+	"github.com/gorilla/websocket"
 
 	"crypto/tls"
 
